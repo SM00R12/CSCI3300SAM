@@ -15,6 +15,7 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
     }
+    //Making a change, Stephen Moore 2018 CSCI3300
 
 
     public static void main(String[] args) {
